@@ -1,0 +1,80 @@
+.team .section-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    margin-bottom: 72px;
+}
+
+.team .subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    margin-bottom: 8px;
+}
+
+.team .text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+    margin-bottom: 8px;
+}
+
+.team {
+    background-color: #f4f4fd;
+    width: 100%;
+    padding: 120px 0;
+}
+
+.team .list-item {
+    background-color: #ffffff;
+    border-radius: 0 0 4px 4px;
+}
+
+.team .list {
+    display: flex;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    padding-left: 0;
+}
+
+.team-content-wrapper {
+    padding: 32px 16px;
+}
+
+.team img {
+    display: block;
+}
+
+.team-soc-link {
+    display: flex;
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    background-color: #4d5ae4;
+    align-items: center;
+    justify-content: center;
+}
+
+.team .icon {
+    height: 16px;
+    width: 16px;
+}
+
+.team .team-soc-list {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    justify-content: center;
+}
+
