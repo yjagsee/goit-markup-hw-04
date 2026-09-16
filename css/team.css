@@ -69,7 +69,7 @@
 .team-soc-link:hover,
 .team-soc-link:focus {
     background-color: #404bbf;
-    transition: backgroundcolor 250ms ease;
+    transition: background-color 250ms ease;
 }
 
 .team .icon {
