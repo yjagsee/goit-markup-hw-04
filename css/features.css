@@ -36,10 +36,10 @@
     width: calc((100% - 72px) / 4);
 }
 
-.features .icon {
+.features .icon.soc-icon {
     display: flex;
     width: auto;
-    height: auto;
+    height: 112px;
     padding: 24px 100px 24px 100px;
     background-color: #f4f4fd;
     border: 1px solid #8e8f99;
