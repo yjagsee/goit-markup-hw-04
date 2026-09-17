@@ -50,6 +50,7 @@
     background-color: #4d5ae5;
     align-items: center;
     justify-content: center;
+    transition: background-color 250ms ease;
 }
 
 .footer-soc-link:hover,
