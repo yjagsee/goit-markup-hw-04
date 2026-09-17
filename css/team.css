@@ -37,6 +37,7 @@
 .team .list-item {
     background-color: #ffffff;
     border-radius: 0 0 4px 4px;
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
 .team .list {
@@ -64,12 +65,12 @@
     background-color: #4d5ae5;
     align-items: center;
     justify-content: center;
+    transition: background-color 250ms ease;
 }
 
 .team-soc-link:hover,
 .team-soc-link:focus {
     background-color: #404bbf;
-    transition: background-color 250ms ease;
 }
 
 .team .icon {

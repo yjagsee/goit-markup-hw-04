@@ -41,6 +41,7 @@
 
 .portfolio .list-item {
     width: calc((100% - 48px) / 3);
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
 
 .portfolio-img {

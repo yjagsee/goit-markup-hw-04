@@ -41,7 +41,6 @@
 .footer-list {
     display: flex;
     flex-direction: row;
-    gap: 120px;
 }
 
 .footer-soc-link {
@@ -80,4 +79,8 @@
     letter-spacing: 0.02em;
     color: #f4f4fd;
     max-width: 264px;
+}
+
+.footer-info {
+    margin-right: 120px;
 }
